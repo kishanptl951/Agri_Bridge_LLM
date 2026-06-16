@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshot/structure.png" alt="AgriBridge Architecture" width="600"/>
-</p>
-
 <h1 align="center">🌾 AgriBridge AI — Multilingual Agricultural Assistant</h1>
 
 <p align="center">
@@ -231,7 +227,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Parth Bhatia** — [@Htrap1862](https://github.com/Htrap1862)
+**Kishan Patel** — [@Kishanptl951](https://github.com/kishanptl951)
 
 ---
 
